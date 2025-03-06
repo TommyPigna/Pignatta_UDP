@@ -1,5 +1,9 @@
+/*
+* @author tommaso pignatta
+*/
+
 public class MainClient {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
+        Client c = new Client();
     }
 }
